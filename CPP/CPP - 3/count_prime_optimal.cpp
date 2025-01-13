@@ -22,7 +22,7 @@ int check(int N)
 }
 int countPrimes(int N)
 {
-    if(N < 3)
+    if(N < 3)   
         return 0;
     return check(N);
 }
