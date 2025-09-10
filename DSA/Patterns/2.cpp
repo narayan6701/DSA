@@ -1,3 +1,42 @@
+// Print the following dynamic patter for a given n
+
+/* 
+
+for n = 2
+@
+@
+@**
+  **@
+    @
+    @
+
+for n = 3
+@
+@
+@
+@***
+   ***
+     ***@
+        @
+        @
+        @
+
+for n = 4
+@
+@
+@
+@
+@****
+    ****
+       ****
+          ****@
+              @
+              @
+              @
+              @
+
+*/
+
 #include<iostream>
 using namespace std;
 
