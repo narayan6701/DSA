@@ -1,3 +1,42 @@
+// Print the following dynamic patter for a given n where n is a odd number
+
+/*
+
+for n = 3
+    *
+   ***
+   @ @
+***@ @***
+ *     *
+
+for n = 5
+       *
+      ***
+     *****
+     @   @
+     @   @
+     @   @
+*****@   @*****
+ ***       ***
+  *         *
+
+for n = 7
+          *
+         ***
+        *****
+       *******
+       @     @
+       @     @
+       @     @
+       @     @
+       @     @
+*******@     @*******
+ *****         *****
+  ***           ***
+   *             *
+
+*/
+
 #include <iostream>
 using namespace std;
 
